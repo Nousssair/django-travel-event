@@ -390,3 +390,41 @@
                             </div>
                         </div>
                     </div>
+
+
+
+
+
+
+
+
+
+                    suite header right 
+
+                     <div class="header-btn-wrap d-flex align-items-center h-gap-55">
+                                <div class="d-none d-sm-inline-flex h-gap-55">
+                                    <div class="header-currency-item header-currency">
+                                        <span class="header-currency-toggle" id="header-currency-toggle">USD</span>
+                                        <ul>
+                                            <li>
+                                                <a href="#">KWD</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">GBP</a>
+                                            </li>
+                                            <li>
+                                                <a href="#">EUR</a>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="d-flex h-gap-55">
+                                    <div class="d-xxs-none">
+                                        <a class="bd-btn btn-style text-btn color-white" href="contact.html">Help</a>
+                                        <a class="bd-btn btn-style text-btn color-white" href="sign-up.html">Sign
+                                            up</a>
+                                        <a class="bd-btn btn-style text-btn color-white" href="sign-in.html">Sign
+                                            in</a>
+                                    </div>
+                                </div>
+                            </div>
