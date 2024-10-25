@@ -10,7 +10,7 @@
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Place favicon.ico in the root directory -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.svg">
+    <link rel="shortcut icon" type="image/x-icon" href="{% static 'images/favicon.svg' %}">
     <!-- CSS here -->
     <link rel="stylesheet" href="{% static 'site/css/vendor/bootstrap.min.css' %}">
     <link rel="stylesheet" href="{% static 'site/css/vendor/animate.min.css' %}">
@@ -28,14 +28,18 @@
 </head>
 
 <body>
-    <!-- preloader start -->
-    <div id="preloader">
+    <!-- preloader start
+    
+     <div id="preloader">
         <div class="bd-three-bounce">
             <div class="bd-child bd-bounce1"></div>
             <div class="bd-child bd-bounce2"></div>
             <div class="bd-child bd-bounce3"></div>
         </div>
     </div>
+    
+    -->
+   
     <!-- preloader end -->
 
     <!-- Header area start -->
